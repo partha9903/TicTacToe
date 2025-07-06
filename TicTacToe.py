@@ -168,7 +168,7 @@ if __name__ == "__main__" :
         newGame = Game()
         newGame.play()
         #newGame.reset()
-        print("Yeyeeeee")
+        print("FUCK YOU AI")
         pygame.display.flip()
           #need a prompt when who's turn 
 
